@@ -9,6 +9,7 @@ WSO-HOAConnect
 [members]: http://www.agileventures.org/users/index
 [WSO]: http://www.agileventures.org/projects/websiteone
 [WorkspaceOnAir]: http://www.agileventures.org/projects/workspaceonair
+[WOA-gh]: https://github.com/AgileVentures/HangoutConnection
 [gapi]: https://developers.google.com/+/hangouts/api/
 
 #### [WebsiteOne][application] and Google Hangouts Connection app
@@ -19,7 +20,7 @@ It makes use of the [Google+ Hangouts API][gapi].
 
 ### Disclaimer
 This is a customized version of an application originally developed as part of the [WebsiteOne project][WSO].
-A more generic version of this application is currently developed within the [WorkspaceOnAir project][WorkspaceOnAir] on AgileVentures. That applications code is available on [this GitHub repository][https://github.com/AgileVentures/HangoutConnection].
+A more generic version of this application is currently developed within the [WorkspaceOnAir project][WorkspaceOnAir] on AgileVentures. That applications code is available on [this GitHub repository][WOA-gh].
 
 #### This version is developed and maintained separately.
 
